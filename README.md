@@ -1,2 +1,2 @@
-# jam-brainwave-tutorial
+# jsm-brainwave-tutorial
 tutorial by javascript mastery
